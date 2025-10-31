@@ -1,10 +1,10 @@
 <div align="Center">
-<img width="100" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" style="cursor: default; pointer-events: none;" />
+<img width="100" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" width="300" height=auto;  style="cursor: default; pointer-events: none;" />
 
 <div align="center">
 
 <a href="https://github.com/jail190" style="pointer-events: none;">
-<img src="https://i.pinimg.com/736x/3c/ec/1a/3cec1aecc18a3ddb4716dbe998d5ca8c.jpg" width="700" height="500" />
+<img src="https://i.pinimg.com/736x/3c/ec/1a/3cec1aecc18a3ddb4716dbe998d5ca8c.jpg" width="780" height=auto />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/jail190?label=Follow&style=social)](https://github.com/jail190)
