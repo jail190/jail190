@@ -1,6 +1,8 @@
 <div align="Center">
-<img width="100" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" width="700" height=auto;  style="cursor: default; pointer-events: none;" />
-
+<video autoplay loop muted style="width: 100%; height: auto;">
+  <source src="https://pin.it/6LthR6Nxe" type="video/mp4">
+</video>
+  
 <div align="center">
 
 <a href="https://github.com/jail190" style="pointer-events: none;">
