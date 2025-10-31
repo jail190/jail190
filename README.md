@@ -1,12 +1,7 @@
-<div align="Center">
-<video autoplay loop muted style="width: 100%; height: auto;">
-  <source src="https://pin.it/6LthR6Nxe" type="video/mp4">
-</video>
-  
 <div align="center">
 
 <a href="https://github.com/jail190" style="pointer-events: none;">
-<img src="https://i.pinimg.com/736x/3c/ec/1a/3cec1aecc18a3ddb4716dbe998d5ca8c.jpg" width="780" height=auto />
+<img src="https://i.pinimg.com/736x/42/09/fe/4209fe38da6b853c55c689ade3ef4d3b.jpg" width="630" height=auto />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/jail190?label=Follow&style=social)](https://github.com/jail190)
