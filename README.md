@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**jail190/jail190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="Center">
 <img width="100" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg" style="cursor: default; pointer-events: none;" />
 
@@ -84,10 +68,7 @@ Here are some ideas to get you started:
 | ‎ ‎ ‎ ‎ Contacts ‎ ‎ ‎ ‎ |
 | --------------------- |
 | **jail (jail190)**<br>
-<a href="mailto:jail78sanchez@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /> </a>
-<a href="https://www.instagram.com/jail__sanchez/"> <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /> </a>
-<a href="https://discord.com/users/729473858179956859"> <img src="https://skillicons.dev/icons?i=discord" alt="discord" /> </a>
-<a href="https://github.com/jail190"> <img src="https://skillicons.dev/icons?i=github" alt="github" /> </a> |
+<a href="mailto:jail78sanchez@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /> </a> <a href="https://www.instagram.com/jail__sanchez/"> <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /> </a><a href="https://discord.com/users/729473858179956859"> <img src="https://skillicons.dev/icons?i=discord" alt="discord" /> </a><a href="https://github.com/jail190"> <img src="https://skillicons.dev/icons?i=github" alt="github" /> </a> |
 
 </div>
 
