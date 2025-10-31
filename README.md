@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/jail190" style="pointer-events: none;">
-<img src="https://i.pinimg.com/736x/3c/ec/1a/3cec1aecc18a3ddb4716dbe998d5ca8c.jpg" />
+<img src="https://i.pinimg.com/736x/3c/ec/1a/3cec1aecc18a3ddb4716dbe998d5ca8c.jpg" width="500" height="300" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/jail190?label=Follow&style=social)](https://github.com/jail190)
